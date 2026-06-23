@@ -1,67 +1,38 @@
-# > Chat-jct.sh 🚀
+# Chat-Jct
 
-> Learn Chat as if you were in the terminal.
-> No frameworks, no black magic — just pure code.
-> `echo "Let's go nerd mode 🧠"`
+This template should help get you started developing with Vue 3 in Vite.
 
-## 📁 ./content
+## Recommended IDE Setup
 
-* [Day 01 -](/)
-* [Day 02 -](/)
-* [Day 03 -](/)
-* [Day 04 -](/)
-* [Day 05 -](/)
-* [Day 06 -](/)
-* [Day 07 -](/)
-* [Day 08 -](/)
-* [Day 09 -](/)
-* [Day 10 -](/)
-* [Day 11 -](/)
-* [Day 12 -](/)
-* [Day 13 -](/)
-* [Day 14 -](/)
-* [Day 15 -](/)
-* [Day 16 -](/)
-* [Day 17 -](/)
-* [Day 18 -](/)
-* [Day 19 -](/)
-* [Day 20 -](/)
-* [Day 21 -](/)
-* [Day 22 -](/)
-* [Day 23 -](/)
-* [Day 24 -](/)
-* [Day 25 -](/)
-* [Day 26 -](/)
-* [Day 27 -](/)
-* [Day 28 -](/)
-* [Day 29 -](/)
-* [Day 30 -](/)
+[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## 🔗 ./resources
+## Recommended Browser Setup
 
-* [Chat Official](/)
-* [Manual in Spanish](/)
-* [30 days of Chat](/)
-* [Game to learn Chat](/)
-* [Visual Studio Code](/)
-* [Tool-1](/)
-* [Tool-2](/)
-* [Tool-3](/)
+- Chromium-based browsers (Chrome, Edge, Brave, etc.):
+  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
+- Firefox:
+  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
+  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
 
-## 🧠 ./notes
+## Customize configuration
 
-This repository is like my learning journal.
+See [Vite Configuration Reference](https://vite.dev/config/).
 
-I'm not an expert. It's not an official course. I just documented what I learned.
+## Project Setup
 
-I might add more in the future if I get even more advanced with Chat.
+```sh
+bun install
+```
 
-## 🌟 ./support
+### Compile and Hot-Reload for Development
 
-If it was helpful or you liked it, please leave a star.
-That motivates me more than a cup of coffee ☕✨
+```sh
+bun dev
+```
 
-## 🛸 ./author
+### Compile and Minify for Production
 
-**Author:** `jeanctech`,
-**Style:** `terminal vibes`, functional documentation, no fear of code.
+```sh
+bun run build
+```
